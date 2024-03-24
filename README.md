@@ -1,12 +1,7 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I+am+Frontend+Developer)](https://git.io/typing-svg)
-###
-Akhatmirzo Developer, [24.03.2024 20:18]
-<!-- ----------------------------------- -->
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Akhatmirzo)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/khojiakbar)
 <h1 align="center"> 
-  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+I'm+Akhatmirzo+Umarov)](https://git.io/typing-svg) -->
-  Hi 👋 I'm Akhatmirzo Umarov
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I+am+Frontend+Developer)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="center">A passionate FullStack Developer from Uzbekistan</h3>
@@ -36,7 +31,7 @@ Akhatmirzo Developer, [24.03.2024 20:18]
 <a href="https://www.youtube.com/channel/UCIdAI2r6X8T-SsfiQUY2iWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-Akhatmirzo Developer, [24.03.2024 20:18]
+Khojiakbar Developer,
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -51,9 +46,9 @@ Akhatmirzo Developer, [24.03.2024 20:18]
 <a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhatmirzo&hide_progress=true" alt="" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohiakbar&hide_progress=true" alt="" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhatmirzo&show_icons=true&locale=en&theme=tokyonight" alt="Akhatmirzo" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khojiakbar&show_icons=true&locale=en&theme=tokyonight" alt="khojiakbar" /></p>
 </div>
 
 
