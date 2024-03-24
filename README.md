@@ -46,7 +46,7 @@ Khojiakbar Developer,
 <a href= https://github.com/https://github.com/khojiakbarr?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohiakbarr&hide_progress=true" alt="" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojiakbarr&hide_progress=true" alt="" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khojiakbarr&show_icons=true&locale=en&theme=tokyonight" alt="khojiakbar" /></p>
 </div>
