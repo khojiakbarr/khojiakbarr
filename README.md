@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on Github projects, blogs etc...
 
-- 🌱 I’m currently learning Fullstack Developer, MongoDB, nodejs etc... 
-
 - 💬 Ask me about JavaScript, React, Html, Css, Sass, TypeScript, Bootstrap, Tailwind 
 
 - 📫 How to reach me hojikabarr09@gmail.com
