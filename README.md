@@ -18,7 +18,7 @@
 
 - 💬 Ask me about JavaScript, React, Html, Css, Sass, TypeScript, Bootstrap, Tailwind 
 
-- 📫 How to reach me blackprincepbg@gmail.com
+- 📫 How to reach me hojikabrar09@gmail.com
 
 - ⚡️ Fun fact I am Funny
 
