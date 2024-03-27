@@ -41,7 +41,7 @@ Khojiakbar Developer,
 <a href= https://github.com/https://github.com/khojiakbarr?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <a href= https://github.com/https://github.com/khojiakbarr?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/https://github.com/khojiakbarr?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/https://github.com/khojiakbarr?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojiakbarr&hide_progress=true" alt="" /></p>
