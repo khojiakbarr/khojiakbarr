@@ -1,7 +1,7 @@
 
 <div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
 
-[![MasterHead](https://giphy.com/embed/10zxDv7Hv5RF9C)](https://github.com/khojiakbarr)
+[![MasterHead](https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C)](https://github.com/khojiakbarr)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I+am+Frontend+Developer)](https://git.io/typing-svg)
 
