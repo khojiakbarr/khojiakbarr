@@ -51,7 +51,6 @@ Khojiakbar Developer,
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khojiakbarr&show_icons=true&locale=en&theme=tokyonight" alt="khojiakbar" /></p>
 </div> 
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4171d19523de6a8ce512c3991494442bfcd6e6c52ea76975ab7dba1f6d1bda7d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f796f67657368776172616e30312f6769746875622d73746174732d7465726d696e616c2d7374796c65406c61746573742f7468656d65732f6861636b65722e737667">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
