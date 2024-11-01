@@ -51,7 +51,6 @@ Khojiakbar Developer,
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khojiakbarr&show_icons=true&locale=en&theme=tokyonight" alt="khojiakbar" /></p>
 </div> 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
