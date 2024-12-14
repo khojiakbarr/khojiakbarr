@@ -32,7 +32,7 @@
   <h2>🐍 GitHub Snake 🐍</h2>
   <br>
  <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/img.svg" alt="snake"/>
 </p>
 <br/>
 <br/>
