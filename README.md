@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/khojiakbar__dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="[https://www.youtube.com/channel/](https://www.youtube.com/channel/UC6rIvhVATacvjg09W9O5Siw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-<br/>
+
 <div align="center">
   <h2>🐍 GitHub Snake 🐍</h2>
   <br>
