@@ -28,7 +28,12 @@
 <a href="[https://www.youtube.com/channel/](https://www.youtube.com/channel/UC6rIvhVATacvjg09W9O5Siw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 <br/>
-
+<div align="center">
+  <h2>🐍 GitHub Snake 🐍</h2>
+  <br>
+ <p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <br/>
 <br/>
 
