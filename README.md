@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Github projects, blogs etc...
 
-- 💬 Ask me about JavaScript, React, Html, Css, Sass, TypeScript, Bootstrap, Tailwind 
+- 💬 Ask me about JavaScript, React, Html, Css, Sass, TypeScript, Bootstrap, Tailwind, Exppres.js
 
 - 📫 How to reach me khojikabarr09@gmail.com
 
