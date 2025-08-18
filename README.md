@@ -3,7 +3,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I+am+Fullstack+Developer)](https://git.io/typing-svg)
 
 
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khojiakbarr&label=Profile%20views&color=0e75b6&style=flat" alt="khojiakbarr" /> </p>
 
