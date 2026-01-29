@@ -96,12 +96,18 @@ const khojiakbar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khojiakbarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khojiakbarr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <a href="https://github.com/khojiakbarr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khojiakbarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojiakbarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
+  </a>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojiakbarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" />
+<br/>
 
+<div align="center">
+  <a href="https://github.com/khojiakbarr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khojiakbarr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -109,19 +115,19 @@ const khojiakbar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=khojiakbarr&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/khojiakbarr">
+    <img src="https://github-profile-trophy.vercel.app/?username=khojiakbarr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophy" />
+  </a>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/khojiakbarr/khojiakbarr/output/github-contribution-grid-snake-dark.svg)
-
+  <a href="https://github.com/khojiakbarr">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khojiakbarr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
@@ -177,18 +183,3 @@ const khojiakbar = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
