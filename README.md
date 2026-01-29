@@ -93,35 +93,6 @@ const khojiakbar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/khojiakbarr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khojiakbarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojiakbarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/khojiakbarr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khojiakbarr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/khojiakbarr">
-    <img src="https://github-profile-trophy.vercel.app/?username=khojiakbarr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophy" />
-  </a>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
