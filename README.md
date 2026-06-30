@@ -2,7 +2,7 @@
   
 # Hi there, I'm Khojiakbar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Digital+Experiences;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;React+Native+Developer;React+%7C+Next.js+%7C+Nest.js;Founder+%40+RopAI;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=khojiakbarr&label=Profile%20views&color=6366f1&style=for-the-badge" alt="khojiakbarr" />
 
@@ -16,17 +16,20 @@
 const khojiakbar = {
     location: "Tashkent, Uzbekistan 🇺🇿",
     role: "Fullstack Developer @ 4DX",
-    experience: "1+ years",
+    experience: "4+ years",
     education: "PDP Academy - Frontend Development & JS Algorithms",
-    
+
     currently: {
-        working: "4DX Company - Building modern web applications",
-        learning: ["Nest.js", "Docker", "System Design"],
-        building: "My Portfolio - khojiakbar.uz"
+        working: "4DX Company - D-Clinics & CliniCall",
+        focus: ["Frontend", "React Native"],
+        building: "RopAI (ropai.uz) - AI sales product"
     },
-    
-    passions: ["Clean Code", "UI/UX", "Problem Solving", "Open Source"],
-    
+
+    stack: ["React.js", "Next.js", "Nest.js", "Express.js",
+            "Fastify.js", "React Native", "MongoDB", "PostgreSQL"],
+
+    passions: ["Clean Code", "UI/UX", "Problem Solving", "Building Products"],
+
     funFact: "I write code that sometimes even I don't understand 🤓"
 };
 ```
@@ -35,10 +38,11 @@ const khojiakbar = {
 
 ### 🎯 Quick Facts
 
-- 🔭 Currently working at **[4DX Company](https://4dx.uz)** as Fullstack Developer
-- 🌱 Learning **Nest.js, Docker & Advanced Backend Patterns**
-- 💼 Previously interned at **Uzinfocom** & **ECMA (PDP University)**
-- 🎨 Building **E-commerce platforms, Landing pages & Telegram bots**
+- 🔭 Fullstack Developer at **[4DX Company](https://4dx.uz)** — core dev on **D-Clinics** & **CliniCall**
+- 📱 Building cross-platform mobile apps with **React Native** (D-Clinics mobile)
+- 🚀 Founder & Product Owner of **[RopAI](https://ropai.uz)** — an AI-powered sales product
+- 🌱 Exploring **System Design & scalable backend architecture**
+- 🧩 Started out **freelancing** — websites, landing pages & Telegram bots
 - 📫 Reach me at **khojiakbarr09@gmail.com**
 - 🌐 Portfolio: **[khojiakbar.uz](https://khojiakbar.uz)**
 - ⚡ Available for **Remote & Part-time** opportunities
@@ -54,15 +58,18 @@ const khojiakbar = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -86,10 +93,11 @@ const khojiakbar = {
 
 | Company | Role | Period |
 |---------|------|--------|
-| 🏢 **4DX Company** | Fullstack Developer | Jan 2025 - Present |
-| 🏛️ **Uzinfocom** | Frontend Developer Intern | Oct - Dec 2024 |
-| 🎓 **ECMA (PDP University)** | Frontend Developer Intern | Jul - Sep 2024 |
-| 💻 **Freelance** | Web Developer | 2024 - Present |
+| 🏢 **4DX Company** | Fullstack Developer | Jun 2023 - Present |
+| 🚀 **RopAI — ropai.uz** | Founder & Product Owner | Jan 2026 - Present |
+| 💻 **Freelance** | Web Developer | Jun 2022 - May 2023 |
+
+> At **4DX** I'm a core developer on **D-Clinics** (a multi-module clinic management SaaS) and **CliniCall** (AI-powered call-center analytics), and I built the **D-Clinics mobile app** with React Native.
 
 ---
 
