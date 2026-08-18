@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 # Hi there, I'm Khojiakbar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;React+Native+Developer;React+%7C+Next.js+%7C+Nest.js;Founder+%40+RopAI;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+%26+Mobile+Developer;React+%7C+Next.js+%7C+NestJS+%7C+React+Native;AI+%2F+LLM+Integration+—+Gemini+%26+Vertex+AI;Founder+%40+RopAI;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=khojiakbarr&label=Profile%20views&color=6366f1&style=for-the-badge" alt="khojiakbarr" />
 
@@ -15,22 +15,20 @@
 ```javascript
 const khojiakbar = {
     location: "Tashkent, Uzbekistan 🇺🇿",
-    role: "Fullstack Developer @ 4DX",
-    experience: "4+ years",
-    education: "PDP Academy - Frontend Development & JS Algorithms",
-
+    role: "Fullstack & Mobile Developer @ 4DX",
+    experience: "2 years in production",
+    education: "PDP Academy — Frontend Development",
+    certified: "HackerRank — Software Engineer (2026)",
     currently: {
-        working: "4DX Company - D-Clinics & CliniCall",
-        focus: ["Frontend", "React Native"],
-        building: "RopAI (ropai.uz) - AI sales product"
+        working: "4DX — D-Clinics (50+ clinics) & CliniCall",
+        focus: ["Fullstack", "React Native", "AI / LLM", "DevOps"],
+        building: "RopAI (ropai.uz) — AI sales assistant"
     },
-
-    stack: ["React.js", "Next.js", "Nest.js", "Express.js",
-            "Fastify.js", "React Native", "MongoDB", "PostgreSQL"],
-
-    passions: ["Clean Code", "UI/UX", "Problem Solving", "Building Products"],
-
-    funFact: "I write code that sometimes even I don't understand 🤓"
+    stack: ["React.js", "Next.js", "TypeScript", "NestJS", "Node.js",
+            "React Native", "PostgreSQL", "Prisma", "Redis", "Docker"],
+    ai: ["Google Gemini", "Vertex AI", "function calling", "n8n", "MCP"],
+    passions: ["Clean Code", "Shipping Products", "Reliable AI Pipelines"],
+    funFact: "I ship code that survives real users — that's the only review that counts 🚀"
 };
 ```
 
@@ -38,11 +36,12 @@ const khojiakbar = {
 
 ### 🎯 Quick Facts
 
-- 🔭 Fullstack Developer at **[4DX Company](https://4dx.uz)** — core dev on **D-Clinics** & **CliniCall**
-- 📱 Building cross-platform mobile apps with **React Native** (D-Clinics mobile)
-- 🚀 Founder & Product Owner of **[RopAI](https://ropai.uz)** — an AI-powered sales product
-- 🌱 Exploring **System Design & scalable backend architecture**
-- 🧩 Started out **freelancing** — websites, landing pages & Telegram bots
+- 🔭 Fullstack & Mobile Developer at **[4DX](https://4dx.uz)** — I lead the frontend of **D-Clinics**, a multi-tenant clinic management SaaS used by **50+ clinics**
+- 📱 Built and shipped the **D-Clinics mobile app** with React Native — full ERP ported to mobile, released to production
+- 🤖 On **CliniCall** I built the **SIP telephony integration end to end** and the analytics pipeline: transcription and call scoring with **Google Gemini**, results pushed back to amoCRM (~100 calls/day)
+- 🚀 Founder & Product Owner of **[RopAI](https://ropai.uz)** — an AI sales assistant that turns CRM call data into concrete recommendations for sales managers
+- 🐳 I own our deployment pipeline: **Docker, CI/CD, Nginx, VPS**
+- 🌱 Currently going deeper into **agent reliability** — structured output, retries, token cost, evals
 - 📫 Reach me at **khojiakbarr09@gmail.com**
 - 🌐 Portfolio: **[khojiakbar.uz](https://khojiakbar.uz)**
 - ⚡ Available for **Remote & Part-time** opportunities
@@ -70,15 +69,24 @@ const khojiakbar = {
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI & Automation
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -93,11 +101,20 @@ const khojiakbar = {
 
 | Company | Role | Period |
 |---------|------|--------|
-| 🏢 **4DX Company** | Fullstack Developer | Jun 2023 - Present |
-| 🚀 **RopAI — ropai.uz** | Founder & Product Owner | Jan 2026 - Present |
-| 💻 **Freelance** | Web Developer | Jun 2022 - May 2023 |
+| 🏢 **4DX Company** | Fullstack & Mobile Developer | Dec 2024 – Present |
+| 🚀 **RopAI — ropai.uz** | Founder & Product Owner | Jan 2026 – Present |
+| 💻 **Freelance** | Fullstack Developer | 2024 – Present |
+| 🎓 **PDP University** | Frontend Intern | Sep 2024 – Nov 2024 |
 
-> At **4DX** I'm a core developer on **D-Clinics** (a multi-module clinic management SaaS) and **CliniCall** (AI-powered call-center analytics), and I built the **D-Clinics mobile app** with React Native.
+> **4DX** — joined as a frontend developer and grew into fullstack, mobile and deployment ownership.
+> I lead the frontend of **D-Clinics** (multi-tenant clinic management SaaS, 50+ clinics), shipped its **React Native mobile app**, and built the **SIP telephony integration and Gemini-powered analytics pipeline** behind **CliniCall**.
+
+---
+
+## 📜 Certifications
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer_(2026)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/40979c00757d)
+![PDP Academy](https://img.shields.io/badge/PDP_Academy-Frontend_Development_(2023–2024)-6366F1?style=for-the-badge)
 
 ---
 
@@ -117,11 +134,9 @@ const khojiakbar = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khojiakbar.uz-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khojiakbar.uz)
 [![Email](https://img.shields.io/badge/Email-khojiakbarr09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khojiakbarr09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khojiakbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khojiakbar-chinozbekov-14698532b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khojiakbar_Chinozbekov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khojiakbar-chinozbekov-14698532b/)
 [![GitHub](https://img.shields.io/badge/GitHub-khojiakbarr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khojiakbarr)
-[![Telegram](https://img.shields.io/badge/Telegram-@khojiakbar__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khojiakbar_dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@hchinozbekov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hchinozbekov)
-[![Instagram](https://img.shields.io/badge/Instagram-@khojiakbar__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khojiakbar__dev)
+[![Telegram](https://img.shields.io/badge/Telegram-@khojiakbar__developer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khojiakbar_developer)
 
 </div>
 
@@ -130,7 +145,7 @@ const khojiakbar = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -142,11 +157,10 @@ const khojiakbar = {
 ### 😄 Fun Facts
 
 ```
-🔧 I write code that sometimes even I don't understand
-🐞 I don't fix bugs — I just turn them into undocumented features
-💻 Coffee + Code = Debugging session
-📦 I believe in "commit early, commit often... and push on Friday" 😅
-🎯 404: Social life not found
+🐞 I don't fix bugs — I turn them into undocumented features
+☕ Coffee + Code = Debugging session
+🤖 I taught an AI to listen to sales calls so humans don't have to
+📦 Commit early, commit often... but never deploy on Friday
 ```
 
 </div>
@@ -154,7 +168,7 @@ const khojiakbar = {
 ---
 
 <div align="center">
-  
+
 ### 📌 Open to Remote & Part-time Opportunities!
 
 **Let's build something amazing together! 🚀**
