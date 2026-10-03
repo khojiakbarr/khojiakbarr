@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=170&section=header&text=Khojiakbar%20Chinozbekov&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20products%20people%20actually%20use&descAlignY=58&descSize=16" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=760&lines=Frontend+%26+Mobile+Developer+%40+4DX;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Founder+of+RopAI+%E2%80%94+AI+sales+assistant;Open+to+remote+%26+part-time+work)](https://khojiakbar.uz)
-
-<img src="https://hits.sh/github.com/khojiakbarr.svg?style=for-the-badge&label=Profile%20views&color=6366f1" alt="Profile views" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-card-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-card-light.svg" />

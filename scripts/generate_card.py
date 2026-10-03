@@ -19,9 +19,9 @@ LEVELS = 10  # opacity buckets, keeps the SVG small
 RAMP = [".:", ":-", "=+", "*o", "x%", "#8", "@&"]
 
 THEMES = {
-    "dark": {"bg": "#0d1117", "border": "#30363d", "key": "#22d3ee", "text": "#c9d1d9",
+    "dark": {"key": "#22d3ee", "text": "#c9d1d9",
              "muted": "#8b949e", "accent": "#6366f1", "glyph": "#2ee6a8"},
-    "light": {"bg": "#ffffff", "border": "#d0d7de", "key": "#0e7490", "text": "#1f2328",
+    "light": {"key": "#0e7490", "text": "#1f2328",
               "muted": "#656d76", "accent": "#4f46e5", "glyph": "#047857"},
 }
 
@@ -167,7 +167,6 @@ text {{ font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation 
 <defs><linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="{c["glyph"]}" stop-opacity="0"/><stop offset="1" stop-color="{c["glyph"]}" stop-opacity=".45"/>
 </linearGradient></defs>
-<rect x=".5" y=".5" width="{WIDTH - 1}" height="{HEIGHT - 1}" rx="12" fill="{c["bg"]}" stroke="{c["border"]}"/>
 {portrait(grid)}
 <rect class="scan" x="{PORTRAIT_X}" y="{PORTRAIT_Y - 24}" width="{len(grid[0]) * CELL_W:.0f}" height="24"/>
 {info_lines(stats)}
