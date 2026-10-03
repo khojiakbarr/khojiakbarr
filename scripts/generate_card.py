@@ -126,7 +126,7 @@ def info_lines(stats):
                        f'<tspan class="k">{escape(item[1])}:</tspan> {escape(item[2])}</text>')
         elif kind == "stats":
             if stats:
-                value = f'{stats["repos"]} repos · {stats["followers"]} followers'
+                value = f'{stats["repos"]} public repos · {stats["followers"]} followers'
                 if stats["stars"] >= 10:
                     value += f' · {stats["stars"]} stars'
                 out.append(f'<text class="l" x="{INFO_X}" y="{y}" style="{delay}">'
