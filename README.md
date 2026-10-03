@@ -1,10 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=170&section=header&text=Khojiakbar%20Chinozbekov&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20products%20people%20actually%20use&descAlignY=58&descSize=16" width="100%"/>
+
+
 # Hi there, I'm Khojiakbar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+%26+Mobile+Developer;React+%7C+Next.js+%7C+NestJS+%7C+React+Native;AI+%2F+LLM+Integration+—+Gemini+%26+Vertex+AI;Founder+%40+RopAI;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Frontend+%26+Mobile+Developer;React+%7C+Next.js+%7C+NestJS+%7C+React+Native;AI+%2F+LLM+Integration+—+Gemini+%26+Vertex+AI;Founder+%40+RopAI;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=khojiakbarr&label=Profile%20views&color=6366f1&style=for-the-badge" alt="khojiakbarr" />
+<img src="https://hits.sh/github.com/khojiakbarr.svg?style=for-the-badge&label=Profile%20views&color=6366f1" alt="Profile views" />
 
 </div>
 
@@ -15,13 +18,13 @@
 ```javascript
 const khojiakbar = {
     location: "Tashkent, Uzbekistan 🇺🇿",
-    role: "Fullstack & Mobile Developer @ 4DX",
+    role: "Frontend & Mobile Developer @ 4DX",
     experience: "2 years in production",
     education: "PDP Academy — Frontend Development",
     certified: "HackerRank — Software Engineer (2026)",
     currently: {
         working: "4DX — D-Clinics (50+ clinics) & CliniCall",
-        focus: ["Fullstack", "React Native", "AI / LLM", "DevOps"],
+        focus: ["Frontend", "React Native", "AI / LLM", "CI/CD"],
         building: "RopAI (ropai.uz) — AI sales assistant"
     },
     stack: ["React.js", "Next.js", "TypeScript", "NestJS", "Node.js",
@@ -36,11 +39,11 @@ const khojiakbar = {
 
 ### 🎯 Quick Facts
 
-- 🔭 Fullstack & Mobile Developer at **[4DX](https://4dx.uz)** — I lead the frontend of **D-Clinics**, a multi-tenant clinic management SaaS used by **50+ clinics**
+- 🔭 Frontend & Mobile Developer at **[4DX](https://4dx.uz)** — I lead the frontend of **D-Clinics**, a multi-tenant clinic management SaaS used by **50+ clinics**
 - 📱 Built and shipped the **D-Clinics mobile app** with React Native — full ERP ported to mobile, released to production
-- 🤖 On **CliniCall** I built the **SIP telephony integration end to end** and the analytics pipeline: transcription and call scoring with **Google Gemini**, results pushed back to amoCRM (~100 calls/day)
-- 🚀 Founder & Product Owner of **[RopAI](https://ropai.uz)** — an AI sales assistant that turns CRM call data into concrete recommendations for sales managers
-- 🐳 I own our deployment pipeline: **Docker, CI/CD, Nginx, VPS**
+- 📊 On **CliniCall** — our call-centre analytics product (~100 calls/day) — I designed the **system architecture** and built the **React analytics frontend**
+- 🚀 Founder & Product Owner of **[RopAI](https://ropai.uz)** — an AI sales assistant that turns CRM call data into concrete recommendations for sales managers. Built single-handedly, live with its first customers — this is where my backend & AI work lives (NestJS, PostgreSQL, Gemini)
+- 🐳 I own our delivery pipeline: **CI/CD, Docker, Nginx, VPS**
 - 🌱 Currently going deeper into **agent reliability** — structured output, retries, token cost, evals
 - 📫 Reach me at **khojiakbarr09@gmail.com**
 - 🌐 Portfolio: **[khojiakbar.uz](https://khojiakbar.uz)**
@@ -101,13 +104,13 @@ const khojiakbar = {
 
 | Company | Role | Period |
 |---------|------|--------|
-| 🏢 **4DX Company** | Fullstack & Mobile Developer | Dec 2024 – Present |
+| 🏢 **4DX Company** | Frontend & Mobile Developer | Dec 2024 – Present |
 | 🚀 **RopAI — ropai.uz** | Founder & Product Owner | Jan 2026 – Present |
 | 💻 **Freelance** | Fullstack Developer | 2024 – Present |
 | 🎓 **PDP University** | Frontend Intern | Sep 2024 – Nov 2024 |
 
-> **4DX** — joined as a frontend developer and grew into fullstack, mobile and deployment ownership.
-> I lead the frontend of **D-Clinics** (multi-tenant clinic management SaaS, 50+ clinics), shipped its **React Native mobile app**, and built the **SIP telephony integration and Gemini-powered analytics pipeline** behind **CliniCall**.
+> **4DX** — started as a frontend developer and now own the mobile side of the product as well.
+> I lead the frontend of **D-Clinics** (multi-tenant clinic management SaaS, 50+ clinics), shipped its **[React Native app](https://play.google.com/store/apps/details?id=com.dclinics.mobile)** porting the full ERP to mobile, and designed the architecture and React frontend of **CliniCall**. I also own the delivery pipeline: CI/CD, Docker, Nginx.
 
 ---
 
@@ -118,12 +121,20 @@ const khojiakbar = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/khojiakbarr">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khojiakbarr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=khojiakbarr&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1" alt="GitHub streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khojiakbarr/khojiakbarr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khojiakbarr/khojiakbarr/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/khojiakbarr/khojiakbarr/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
@@ -173,6 +184,6 @@ const khojiakbar = {
 
 **Let's build something amazing together! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6366F1,100:22D3EE&animation=twinkling" width="100%"/>
 
 </div>
